@@ -1,0 +1,4 @@
+<li class="projects" class="navbar-tabs-li" data-aos="fade-down" data-aos-delay="700">
+            <a href="#projects" aria-label="projects menu button">
+              &#60;/My School&#62;
+            </a>
